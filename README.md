@@ -4,7 +4,8 @@
 
 ## Overview
 
-Welcome to the Effective-Decision-Trees repository! This repository contains code and resources related to the blog titled "Mastering Decision Trees: Unleashing Their Full Potential." In this blog, we explore how to use decision trees for classification and regression tasks, understand their structure, and apply essential techniques to create accurate and robust models.
+Welcome to the Effective-Decision-Trees repository! This repository contains code and resources related to the blog titled ["Mastering Decision Trees for Classification: Unleashing Their Full Potential"](https://medium.com/@nabilmarzoug49/mastering-decision-trees-for-classification-unleashing-their-full-potential-13c018cbbfb5). In this blog, we explore how to use decision trees for classification and regression tasks, understand their structure, and apply essential techniques to create accurate and robust models.
+
 
 ### Blog Overview
 
