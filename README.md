@@ -16,16 +16,9 @@ Decision trees are powerful machine learning models known for their interpretabi
 
 2. Advantages of Decision Trees: Highlights the advantages of decision trees, such as interpretability, non-linearity, and feature importance.
 
-3. Preprocessing Data for Decision Trees: Guidance on handling categorical variables, outliers, and feature scaling before training decision trees.
+3. Overfitting and Regularization: Techniques to prevent overfitting by pruning and setting hyperparameters.
 
-4. Overfitting and Regularization: Techniques to prevent overfitting by pruning and setting hyperparameters.
-
-5. Tuning Hyperparameters: How to fine-tune decision tree hyperparameters to optimize model performance.
-
-6. Ensemble Methods: Introduction to Random Forests and Boosting, which leverage decision trees to create powerful ensemble models.
-
-7. Handling Imbalanced Data: Techniques to address imbalanced datasets when working with decision trees.
-
+4. Ensemble Methods: Introduction to Random Forests and Boosting, which leverage decision trees to create powerful ensemble models.
 
 ### Contributions
 
